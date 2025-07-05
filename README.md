@@ -1,6 +1,6 @@
-# Trabalho - Fundamentos de Desenvolvimento de Software
+# Projeto - Fundamentos de Desenvolvimento de Software
 
-Este repositório contém o **Trabalho de Fundamentos de Desenvolvimento de Software** realizado por Aline Dionísio.
+Este repositório contém o **Projeto de Fundamentos de Desenvolvimento de Software** realizado por Aline Dionizio.
 
 O objetivo do projeto é aplicar os conceitos estudados na disciplina, utilizando **HTML, CSS e JavaScript** para construção de uma página estática com interatividade.
 
@@ -26,6 +26,6 @@ git clone https://github.com/AlineDion/trabalho-fundamentos-desenvolvimento-soft
 
 ## ✏️ Autor
 
-- **Aline Dionísio**
+- **Aline Dionizio**
 
 ---
