@@ -1,34 +1,45 @@
+/* Estilo geral do corpo */
 body {
-    background-color: #f0f8ff; /* cor suave */
+    background-color: #f0f8ff;
     font-family: Arial, sans-serif;
     padding: 20px;
 }
 
+/* Título centralizado com cor diferenciada */
 h1 {
-    color: #2e8b57; /* cor diferente */
+    color: #2e8b57;
     text-align: center;
 }
 
+/* Parágrafos com tamanho e alinhamento adequados */
 p {
-    font-size: 18px; /* tamanho maior */
-    text-align: justify; /* alinhado */
+    font-size: 18px;
+    text-align: justify;
 }
 
+/* Ajustes nas listas */
 ul {
-    padding-left: 0; /* remove recuo padrão */
-    list-style-position: inside; /* alinha os pontos ao título */
+    padding-left: 0;
+    list-style-position: inside;
 }
 
 ul li {
-    margin-bottom: 10px; /* espaçamento maior */
+    margin-bottom: 10px;
 }
 
+/* Imagens com bordas arredondadas e tamanho padrão */
 img {
-    border-radius: 10px; /* bordas arredondadas */
+    border-radius: 10px;
     width: 200px;
     height: auto;
 }
 
+/* Espaço entre imagens dentro da tabela */
+table img {
+    margin-right: 10px;
+}
+
+/* Configuração da tabela */
 table {
     width: 70%;
     border-collapse: collapse;
@@ -44,6 +55,7 @@ th, td {
     text-align: center;
 }
 
+/* Estilo dos links */
 a {
     display: block;
     margin-top: 20px;
@@ -52,5 +64,5 @@ a {
 }
 
 a:hover {
-    color: #ff4500; /* muda de cor ao passar o mouse */
+    color: #ff4500;
 }
