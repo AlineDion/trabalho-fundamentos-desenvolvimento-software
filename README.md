@@ -1,8 +1,8 @@
 # Projeto - Fundamentos de Desenvolvimento de Software
 
-Este repositório contém o **Projeto de Fundamentos de Desenvolvimento de Software** realizado por Aline Dionizio.
+Este repositório reúne um projeto desenvolvido para a disciplina de **Desenvolvimento de Software** do curso de Análise e Desenvolvimento de Sistemas. O objetivo da atividade é praticar, de forma simples, os conceitos estudados em aula, utilizando **HTML, CSS e JavaScript** para criar uma página estática com interatividade.
 
-O objetivo do projeto é aplicar os conceitos estudados na disciplina, utilizando **HTML, CSS e JavaScript** para construção de uma página estática com interatividade.
+Durante o projeto, foram aplicados conhecimentos sobre publicação online, estruturação e organização de código. Além disso, foi utilizado o **Git e o GitHub** para versionar e hospedar o projeto no **GitHub Pages**, permitindo acompanhar todas as etapas de desenvolvimento, do planejamento até a publicação.
 
 ## 🌐 Acesse o projeto online
 
