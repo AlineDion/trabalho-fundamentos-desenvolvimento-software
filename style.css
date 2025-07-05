@@ -31,12 +31,13 @@ ul li {
 img {
     border-radius: 10px;
     width: 200px;
-    height: auto;
+    height: 170px;
+     object-fit: cover;
 }
 
 /* Espaço entre imagens dentro da tabela */
 table img {
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 /* Configuração da tabela */
